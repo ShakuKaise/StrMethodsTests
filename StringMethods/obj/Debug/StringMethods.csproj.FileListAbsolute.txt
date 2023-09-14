@@ -1,0 +1,6 @@
+C:\Users\uter\source\repos\StringMethods.Tests\StringMethods\bin\Debug\StringMethods.dll
+C:\Users\uter\source\repos\StringMethods.Tests\StringMethods\bin\Debug\StringMethods.pdb
+C:\Users\uter\source\repos\StringMethods.Tests\StringMethods\obj\Debug\StringMethods.csproj.AssemblyReference.cache
+C:\Users\uter\source\repos\StringMethods.Tests\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\uter\source\repos\StringMethods.Tests\StringMethods\obj\Debug\StringMethods.dll
+C:\Users\uter\source\repos\StringMethods.Tests\StringMethods\obj\Debug\StringMethods.pdb
